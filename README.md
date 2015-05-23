@@ -2,13 +2,14 @@
 ##This application is a web-store for CMPSC431W.
 
 
+
 ## Phase 1 - Conceptual Database Design
 A fifteen page, double-spaced document including the requirement analysis and conceptual design.
 
 #### Requirement Analysis
 Your team should present a concise (itemized) summary of the
 application and its operations. There is some vagueness in the project description. You
-should clarify them and define exactly how Himalaya°com should operate and what
+should clarify them and define exactly how HimalayaÂ°com should operate and what
 functions your systems will provide to support those operations. Clearly describe all the
 extensions (i.e., those not specified in the project description) for your design and
 prototype. You may include in the document (or as an appendix) some figures (e.g.,
@@ -18,7 +19,7 @@ projected screen shots or web designs) to illustrate the functions and operation
 Your team should present an entity-relationship diagram describing
 your design. Also, your project document should include a narrative description of the
 diagram. Please do not assume the underlying database system and do not map your
-design into relations – which is the task for Phase 2 of the project.
+design into relations â€“ which is the task for Phase 2 of the project.
 
 
 ## Phase 2 - Logical Database Design and Normalization
@@ -35,7 +36,7 @@ normalization. In the report, I also expect you to describe how the created tabl
 related to your ER design and how they meet the requirements you specified in Phase 1.
 In addition, I would like you to describe your design approach and the relations it
 produced (i.e., document what you have done on schema refinement). For coherence of
-the report, you may choose to leave this part in the Appendix (i.e., it’s up to you to decide
+the report, you may choose to leave this part in the Appendix (i.e., itâ€™s up to you to decide
 how to organize your report.)
 
 #### Formatting
@@ -49,10 +50,10 @@ reports from the beginning of the semester until the due date.
 
 ## Phase 3 - System Prototype
 During this phase of the project you will implement the database system you have
-previously designed for Himalaya°com. You will create a database in MySQL based on
+previously designed for HimalayaÂ°com. You will create a database in MySQL based on
 your design and populate it with testing data you generate. In addition, you will
 implement several transactions for the internal and/or external user operations of
-Himalaya°com
+HimalayaÂ°com
 
 #### Populating the Database
 * 15 users
